@@ -1,5 +1,5 @@
 #include <stdio.h>
-// ekrana sayı yazdırma
+// Kullanıcıdan sayı alarak ekrana sayı yazdırma
 int main() {
     
     int sayi;
